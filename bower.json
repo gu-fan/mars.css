@@ -1,0 +1,20 @@
+{
+  "name": "liv-srv",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Rykka/liv-srv",
+  "authors": [
+    "顾凡 <gu.fan@immomo.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "react": "~0.14.2",
+    "jquery": "~2.1.4"
+  }
+}
