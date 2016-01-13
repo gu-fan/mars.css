@@ -6,6 +6,9 @@ Mars.css
 
     css theme for markup language
 
+
+DEMO: http://rykka.me/mars.css/
+
 Develop
 =======
 
@@ -30,3 +33,7 @@ Develop
    # browse localhost:3000/index.rst
 
    vim app/client/css/mars.less
+
+5. final css::
+
+   public/css/mars.css
